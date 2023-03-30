@@ -1,1 +1,1 @@
-# Iterator patter
+# Iterator pattern
