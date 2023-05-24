@@ -2,9 +2,6 @@
 using Lab10.Concrete;
 using Lab10.Interfaces;
 
-Console.WriteLine("Hello, World!");
-
-
 var firstNameInput = new Input("firstNameInput");
 var lastNameInput = new Input("firstNameInput");
 
